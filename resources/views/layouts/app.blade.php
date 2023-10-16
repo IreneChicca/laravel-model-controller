@@ -9,10 +9,10 @@
 </head>
 <body>
     
-    <header> header</header>
+    <header> <h1 class="text-center">My Movies</h1></header>
 
     <main>@yield('main-content')</main>
 
-    <footer>footer</footer>
+    <footer></footer>
 </body>
 </html>
